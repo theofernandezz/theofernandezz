@@ -45,8 +45,8 @@ I am a software development student with a deep interest in creating web applica
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theo-fernandez-895a08207/) 
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theo@netflux.com.ar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-theo_fernandez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-fernandez-895a08207/) 
+[![Email](https://img.shields.io/badge/Email-theo@netflux.com.ar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theo@netflux.com.ar)
 
 ---
 
