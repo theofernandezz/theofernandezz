@@ -27,11 +27,11 @@ I am a software development student with a deep interest in creating web applica
 
 ## 💼 Personal Projects
 
-1. **[Fade Style - Barber Shop Reservation System](https://github.com/theofernandezz/fade-style)**  
-   A web project that enables streamlined booking management, developed with React and Tailwind CSS, and integrated with WhatsApp to facilitate easy reservations.
+1. **[Portfolio - My Personal Portfolio](https://github.com/theofernandezz/portfolio)**  
+   A web about my and my personal projects built it with HTML, CSS and JavaScript
 
-2. **[Task Manager - User and Task Management System](link-to-repo)**  
-   A system to manage users and tasks efficiently, incorporating user roles, task assignments, and automated workflows. Built to improve task tracking and productivity in team environments.
+2. **[Dashboard - Interactive Dashboard](https://github.com/theofernandezz/interactive-dashboard)**  
+   A system to manage data, filter and see the sold amount.
 
 ---
 
